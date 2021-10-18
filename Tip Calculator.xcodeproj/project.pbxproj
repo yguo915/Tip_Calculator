@@ -49,6 +49,7 @@
 		0053ED402717863B00057985 /* Tip CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tip CalculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0053ED442717863B00057985 /* Tip_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip_CalculatorUITests.swift; sourceTree = "<group>"; };
 		0053ED462717863B00057985 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		00EEDC39271A32E800AE68B8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		0053ED162717863500057985 = {
 			isa = PBXGroup;
 			children = (
+				00EEDC39271A32E800AE68B8 /* README.md */,
 				0053ED212717863500057985 /* Tip Calculator */,
 				0053ED382717863B00057985 /* Tip CalculatorTests */,
 				0053ED432717863B00057985 /* Tip CalculatorUITests */,
